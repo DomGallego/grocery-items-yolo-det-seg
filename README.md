@@ -62,7 +62,9 @@ This repository is organized as follows:
     
 ## Results
 
-The project demonstrates competitive results in both detection and segmentation accuracy across multiple architectures. Detailed performance metrics, as captured by `batch_metrics.py`, will show the trade-offs between speed and accuracy across different models. Results from `batch_metrics.py` are shown in the `Results` section of this PDF. The performance benefits are especially noticeable when models are exported to TensorRT format for optimized deployment on compatible NVIDIA GPUs.
+The project demonstrates competitive results in both detection and segmentation accuracy across multiple architectures. Detailed performance metrics, as captured by `batch_metrics.py`, will show the trade-offs between speed and accuracy across different models. The performance benefits are especially noticeable when models are exported to TensorRT format for optimized deployment on compatible NVIDIA GPUs.
+
+![alt text](image.png)
 
 ## Technologies Used
 
