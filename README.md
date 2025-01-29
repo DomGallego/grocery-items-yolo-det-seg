@@ -13,7 +13,10 @@ This project leverages cutting-edge deep learning techniques to build a fast and
 
 ## Project Demo
 
-![Demo Video](demo.mp4)
+
+
+https://github.com/user-attachments/assets/ee25f2c5-7e67-4556-b975-56078a9d6237
+
 
 
 ## Key Features
