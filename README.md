@@ -88,7 +88,3 @@ The project demonstrates competitive results in both detection and segmentation 
 *   Further optimization for lower-powered hardware.
 *   Expanding the range of grocery items detected and segmented.
 *   Implementing model quantization to further increase inference speed.
-
-## Conclusion
-
-This project provides a comprehensive end-to-end solution for real-time grocery item detection and segmentation, highlighting both model training and deployment. The project demonstrates expertise in deep learning, model optimization, and application development. The combination of a user-friendly Gradio web interface, high performance via TensorRT exports, and detailed metrics evaluation provide a well-rounded example of a real-world deep learning system.
