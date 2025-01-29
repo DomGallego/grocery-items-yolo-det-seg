@@ -11,6 +11,11 @@ This project leverages cutting-edge deep learning techniques to build a fast and
 *   Create a user-friendly Gradio application for live demonstration and interaction.
 *   Export models to TensorRT format for improved inference performance on NVIDIA hardware.
 
+## Project Demo
+
+![Demo Video](demo.mp4)
+
+
 ## Key Features
 
 *   **Multi-Model Training**: Includes scripts to train various YOLO architectures, specifically `YOLOv11n` and `YOLOv11x`, for detection and segmentation.
